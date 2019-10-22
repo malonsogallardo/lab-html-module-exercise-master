@@ -1,0 +1,139 @@
+  * {
+    font-family: Arial;
+  }  
+
+  nav {
+    background-color: #C12127;
+    font-family: Arial;
+    color: rgba(255,255,255,0.8);
+    padding-top: 15px;
+    height: 25px;
+  }
+  
+nav a {
+    color: rgba(255,255,255,0.8);
+    text-decoration: none;
+  }
+
+.top-left {
+  display:inline-block;
+  float: left;
+  }
+
+.top-links {
+    display: inline-block;
+    float: right;
+    padding: 0;
+    margin: 0 20px 0 0;
+  }
+  
+.top-links li {
+    display: inline-block;
+    margin: 0 10px;
+  }
+
+#header {
+    color:white;
+    background-image:url("images/city-scape.svg");
+    background-position: 0 0;
+  }
+h1 {
+    font-family: Arial;
+    font-size:50px;
+  }
+
+.button-header {
+  font-size: 20px;
+  color:white;
+  background:rgb(240, 146, 51);
+  border-radius: 15px;
+  border:orange;
+  
+}
+.text {
+  display:inline-block;
+  text-align: left;
+  width: 33%;
+  margin: 0 auto;
+}
+
+#search{
+  background: rgb(31, 82, 111);
+  font-size:30px;
+  border:white;
+  position:relative;
+  bottom :20px;
+  width:1500px;
+  height: 55px;
+}
+
+.header-div{
+  text-align:left;
+  padding:10px;
+}
+
+.header-div2{
+  text-align:left;
+  padding:100px;
+}
+
+.text1{
+  color:white;
+  text-decoration: none;
+}
+
+.div-section{
+  color:white;
+  background: rgb(39, 53, 71);
+  }
+
+.button-section{
+  font-size: 20px;
+  color:white;
+  background:rgb(203, 56, 55);
+  border-radius: 15px;
+  border:rgb(203, 56, 55);
+}
+.button-section2{
+  font-size: 20px;
+  color:white;
+  background:rgb(49, 68, 88);
+  border-radius: 15px;
+  border:rgb(49, 68, 88);
+
+}
+
+.div-section2{
+  background:url("images/forklift.svg");
+
+}
+.diseño-div{
+  background: white;
+  margin:0 auto;
+  text-align: center;
+}
+
+.service-box {
+  font-size: 1.7em;
+  margin: 5px 5% 0;
+  padding: 5px;
+  text-align: center;
+  width: 20%;
+}
+
+  .col {
+    float: left;
+  }
+
+  .link{
+    color:rgb(208, 74, 73);
+    text-decoration: none;
+  }
+
+  .h2{
+    color:rgb(83, 88, 98);
+  }
+
+  .paragraph{
+    color:rgb(135, 145, 156);
+  }
